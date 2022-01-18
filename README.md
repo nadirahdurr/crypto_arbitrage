@@ -26,7 +26,7 @@ This is a financial analysis of the historical trade data for Bitcoin on the two
 
 ## Usage
 
-Run each step to see the Bitcoin data in each phase of financial analysis to determine any arbitrage opportunities exist for Bitcoin.
+Run each step to see a financial analysis for Bitcoin data in each phase to determine any arbitrage opportunities exist for Bitcoin.
 
 ---
 
